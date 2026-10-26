@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System using Machine Learning
+# 🎬 Movie Recommendation System (Machine Learning)
 
 This project implements a **content-based movie recommendation system** that recommends similar movies based on textual information such as genres and movie descriptions. The system uses **NLP techniques, TF features, and cosine similarity** to generate recommendations.
 
